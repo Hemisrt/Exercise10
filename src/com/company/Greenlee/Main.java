@@ -1,8 +1,5 @@
 package com.company.Greenlee;
 
-import java.util.List;
-import java.util.ArrayList;
-
 public class Main {
     // Trenton Greenlee
     // 3/13/2020
